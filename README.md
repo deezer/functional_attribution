@@ -2,9 +2,10 @@
 
 Source code of our paper "*Towards Rigorous Interpretations: a Formalisation of Feature Attribution*", by Darius Afchar, Romain Hennequin and Vincent Guigue.
 
-[**Link** to our paper on Arxiv](https://arxiv.org/pdf/2104.12437.pdf)
+[**Link** to our paper](http://proceedings.mlr.press/v139/afchar21a.html)
+[**Link to our poster and slides at ICML**](https://icml.cc/virtual/2021/poster/10687)
 
-This paper is to be published in the proceedings of the [38th International Conference on Machine Learning](https://icml.cc) (**ICML 2021**).
+This paper is part of the proceedings of the [38th International Conference on Machine Learning](https://icml.cc) (**ICML 2021**).
 
 
 ### Install dependencies
@@ -61,3 +62,8 @@ python eval_univariate.py --task_set univariate --output results --tuned_params 
 ```
 
 Intermediate results are saved every ten minutes.
+
+
+### Contact
+
+Contact us at [research@deezer.com](mailto:research@deezer.com)
