@@ -3,7 +3,8 @@
 Source code of our paper "*Towards Rigorous Interpretations: a Formalisation of Feature Attribution*", by Darius Afchar, Romain Hennequin and Vincent Guigue.
 
 [**Link** to our paper](http://proceedings.mlr.press/v139/afchar21a.html)
-[**Link to our poster and slides at ICML**](https://icml.cc/virtual/2021/poster/10687)
+
+[**Link** to our poster and slides at ICML](https://icml.cc/virtual/2021/poster/10687)
 
 This paper is part of the proceedings of the [38th International Conference on Machine Learning](https://icml.cc) (**ICML 2021**).
 
